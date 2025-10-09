@@ -10,17 +10,23 @@ J’aime particulièrement Python et le développement web, mais je suis toujour
 ## 🛠️ Compétences
 
 - **Langages :** 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ,
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ,
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ,
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ,
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ,
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ,
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ,
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ,
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white)
 
-- **Outils :** Git, VS Code, Linux, Godot Engine
+- **Outils :**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godot-engine&logoColor=white)
+
 
 ---
 
