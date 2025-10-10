@@ -49,7 +49,7 @@ Je lis principalement des mangas classiques tels que L’Attaque des Titans, Dem
 
 | Projet | Description | Techno |
 |--------|--------------|--------|
-| [Portfolio](http://barabaslucas.chez.com/) | Site perso présentant mes rendu de TD du BTS | HTML / CSS / PHP / C++  |
+| [Rendu TD](http://barabaslucas.chez.com/) | Site perso présentant mes rendu de TD du BTS | HTML / CSS / PHP / C++  |
 
 ---
 
