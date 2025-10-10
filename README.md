@@ -1,4 +1,4 @@
-# Salut, moi c’est Lucas
+# Hello Hello , moi c’est Lucas
 J’aime particulièrement Python et le développement web, mais je suis toujours partant pour apprendre et utiliser d'autres langages.
 
 💻 Diplômes : Titulaire d'un **BTS CIEL**, je suis maintenant étudiant en informatique **BUT 2** à l'IUT Robert Schuman.  
