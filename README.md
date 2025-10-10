@@ -1,6 +1,20 @@
-# Hello Hello , moi c’est Lucas
-J’aime particulièrement Python et le développement web, mais je suis toujours partant pour apprendre et utiliser d'autres langages.
+# Hello Hello, moi c’est Lucas
 
+## À propos de moi
+
+Je suis un étudiant en BUT2 Informatique, passionné par le domaine. J’aime particulièrement Python et le développement web, mais je suis toujours partant pour apprendre et utiliser d’autres langages.
+
+### Sports
+
+Je fais un peu de musculation et, pendant mes années de collège, j’ai pratiqué le basket. Je continue d’en faire entre amis ou avec mes frères et sœurs.
+
+### Jeux vidéos
+J’aime jouer à des jeux avec mes amis, comme Minecraft, Forza Horizon 5, mais aussi à des FPS tels que Rainbow Six Siege et CS2.
+
+### Lecture
+Je lis principalement des mangas classiques tels que L’Attaque des Titans, Demon Slayer et mon préféré : Berserk.
+
+### Diplômes / Objectif
 💻 Diplômes : Titulaire d'un **BTS CIEL**, je suis maintenant étudiant en informatique **BUT 2** à l'IUT Robert Schuman.  
 🎯 Objectif : - Actuellement en recherche d'un stage pour ma 2ᵉ année de BUT
 
@@ -29,8 +43,6 @@ J’aime particulièrement Python et le développement web, mais je suis toujour
 
 
 ---
-
-
 
 
 ## 📂 Mes projets
