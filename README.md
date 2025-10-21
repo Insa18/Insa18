@@ -16,10 +16,18 @@ Je lis principalement des mangas classiques tels que L’Attaque des Titans, Dem
 
 ### Diplômes / Objectif
 💻 Diplômes : Titulaire d'un **BTS CIEL**, je suis maintenant étudiant en informatique **BUT 2** à l'IUT Robert Schuman.  
-🎯 Objectif : - Actuellement en recherche d'un stage pour ma 2ᵉ année de BUT
+🎯 Objectif : Actuellement en recherche d'un stage pour ma 2ᵉ année de BUT
 
 ---
 
+
+## 📂 Mes projets
+
+| Projet | Description | Techno |
+|--------|--------------|--------|
+| [Rendu TD](http://barabaslucas.chez.com/) | Site perso présentant mes rendu de TD du BTS | HTML / CSS / PHP / C++  |
+
+---
 
 ## 🛠️ Compétences
 
@@ -45,13 +53,6 @@ Je lis principalement des mangas classiques tels que L’Attaque des Titans, Dem
 ---
 
 
-## 📂 Mes projets
-
-| Projet | Description | Techno |
-|--------|--------------|--------|
-| [Rendu TD](http://barabaslucas.chez.com/) | Site perso présentant mes rendu de TD du BTS | HTML / CSS / PHP / C++  |
-
----
 
 ## 📊 Statistiques GitHub
 
