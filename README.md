@@ -12,7 +12,7 @@ Je fais un peu de musculation et, pendant mes années de collège, j’ai pratiq
 J’aime jouer à des jeux avec mes amis, comme Minecraft, Forza Horizon 5, mais aussi à des FPS tels que Rainbow Six Siege et CS2.
 
 ### Lecture
-Je lis principalement des mangas classiques tels que L’Attaque des Titans, Demon Slayer et mon préféré : Berserk.
+Je lis principalement des mangas classiques tels que L’Attaque des Titans, Demon Slayer, Chainsaw Man et mon préféré : Berserk.
 
 ### Diplômes / Objectif
 💻 Diplômes : Titulaire d'un **BTS CIEL**, je suis maintenant étudiant en informatique **BUT 2** à l'IUT Robert Schuman.  
