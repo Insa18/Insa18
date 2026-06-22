@@ -1,35 +1,35 @@
-# Hello Hello, moi c’est Lucas
+# Hello Hello, moi c'est Lucas
 
 ## À propos de moi
 
-Je suis un étudiant en BUT2 Informatique, passionné par le domaine. J’aime particulièrement Python et le développement web, mais je suis toujours partant pour apprendre et utiliser d’autres langages.
+Je suis un étudiant en BUT2 Informatique, passionné par le domaine. J'aime particulièrement Python et le développement web, mais je suis toujours partant pour apprendre et utiliser d'autres langages.
 
 ### Sports
 
-Je fais un peu de musculation et, pendant mes années de collège, j’ai pratiqué le basket. Je continue d’en faire entre amis ou avec mes frères et sœurs.
+Je fais un peu de musculation et, pendant mes années de collège, j'ai pratiqué le basket. Je continue d'en faire entre amis ou avec mes frères et sœurs.
 
 ### Jeux vidéos
-J’aime jouer à des jeux avec mes amis, comme Minecraft, Forza Horizon 5, mais aussi à des FPS tels que Rainbow Six Siege et CS2.
+J'aime jouer à des jeux avec mes amis, comme Minecraft, Forza Horizon 5, mais aussi à des FPS tels que Rainbow Six Siege et CS2.
 
 ### Lecture
-Je lis principalement des mangas classiques tels que L’Attaque des Titans, Demon Slayer, Chainsaw Man et mon préféré : Berserk.
+Je lis principalement des mangas classiques tels que L'Attaque des Titans, Demon Slayer, Chainsaw Man et mon préféré : Berserk.
 
 ### Diplômes / Objectif
-💻 Diplômes : Titulaire d'un **BTS CIEL**, je suis maintenant étudiant en informatique **BUT 2** à l'IUT Robert Schuman.  
-🎯 Objectif : Actuellement en recherche d'un stage pour ma 2ᵉ année de BUT
+Titulaire d'un **BTS CIEL**, je suis maintenant étudiant en informatique **BUT 2** à l'IUT Robert Schuman.  
+Actuellement en recherche d'un stage pour ma 2ᵉ année de BUT.
 
 ---
 
-
-## 📂 Mes projets
+## Mes projets
 
 | Projet | Description | Techno |
 |--------|--------------|--------|
+| [Portfolio](https://insa18.github.io/portfolio/#hero) | Mon portfolio personnel | HTML / CSS / JS |
 | [Rendu TD](http://barabaslucas.chez.com/) | Site perso présentant mes rendu de TD du BTS | HTML / CSS / PHP / C++  |
 
 ---
 
-## 🛠️ Compétences
+## Compétences
 
 - **Langages :** 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
@@ -49,19 +49,22 @@ Je lis principalement des mangas classiques tels que L’Attaque des Titans, Dem
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godot-engine&logoColor=white)
 
-
 ---
 
-
-
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Insa18&show_icons=true&theme=radical)
 
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Insa18&layout=compact&theme=radical)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Insa18/Insa18/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Insa18/Insa18/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Insa18/Insa18/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 ---
 
-## 📫 Me contacter
-- ✉️ [lucasbarabas355@gmail.com](mailto:lucasbarabas355@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-barabas-170458278)
+## Me contacter
+- [lucasbarabas355@gmail.com](mailto:lucasbarabas355@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lucas-barabas-170458278)
