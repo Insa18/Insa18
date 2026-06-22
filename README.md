@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## À propos
 
 Étudiant en BUT2 Informatique, passionné par la création d'applications web et logicielles. J'aime concevoir des projets de A à Z, du front au back.
@@ -16,7 +14,6 @@ Titulaire d'un **BTS CIEL**, actuellement en **recherche d'alternance** à l'IUT
 
 En dehors du code : musculation, basket entre amis, jeux avec les potes (Minecraft, Forza, R6, CS2), et beaucoup de mangas — Berserk en tête.
 
----
 
 ## Projets
 
@@ -27,7 +24,6 @@ En dehors du code : musculation, basket entre amis, jeux avec les potes (Minecra
 | Call of Audit | Jeu sérieux d'exploration de campus avec système de dialogues | Godot / C# / GDScript |
 | [Rendu TD](http://barabaslucas.chez.com/) | Site présentant mes rendus de TD du BTS | HTML / CSS / PHP / C++ |
 
----
 
 ## Compétences
 
@@ -63,7 +59,6 @@ En dehors du code : musculation, basket entre amis, jeux avec les potes (Minecra
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
 
----
 
 ## Statistiques
 
@@ -80,7 +75,6 @@ En dehors du code : musculation, basket entre amis, jeux avec les potes (Minecra
 
 </div>
 
----
 
 ## Contact
 
