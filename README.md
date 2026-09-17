@@ -2,13 +2,13 @@
 
 # Hello, moi c'est Lucas
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=BUT2+Informatique+%40+IUT+Robert+Schuman;Dev+Web+%7C+React+%7C+Spring+Boot;En+recherche+d'alternance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=BUT3+Informatique+%40+IUT+Robert+Schuman;Dev+Web+%7C+React+%7C+Spring+Boot;En+recherche+d'alternance)](https://git.io/typing-svg)
 
 </div>
 
 ## À propos
 
-Étudiant en BUT2 Informatique, passionné par la création d'applications web et logicielles. J'aime concevoir des projets de A à Z, du front au back.
+Étudiant en BUT3 Informatique, passionné par la création d'applications web et logicielles. J'aime concevoir des projets de A à Z, du front au back.
 
 Titulaire d'un **BTS CIEL**, actuellement en **recherche d'alternance** à l'IUT Robert Schuman.
 
