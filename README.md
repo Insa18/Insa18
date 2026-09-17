@@ -64,8 +64,8 @@ En dehors du code : musculation, basket entre amis, jeux avec les potes (Minecra
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Insa18&show_icons=true&theme=radical&hide_border=true)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Insa18&layout=compact&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=Insa18&show_icons=true&theme=radical&hide_border=true)
+![Langages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Insa18&layout=compact&theme=radical&hide_border=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Insa18/Insa18/output/github-contribution-grid-snake-dark.svg" />
